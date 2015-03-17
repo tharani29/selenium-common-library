@@ -24,3 +24,4 @@ Selenium Common Library
 
 This library was composed and built with IntelliJ IDEA with Java 7.
 
+Please see the "HOW-TO" file for proper installation and use.
