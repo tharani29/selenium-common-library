@@ -829,7 +829,7 @@ public class BaseSeleniumPage {
    */
   protected boolean isEnabled(WebElement webElement) {
     if (webElement == null) {
-      throw new RuntimeException("The WebElement " + webElement + " is NULL.");
+      throw new RuntimeException("The WebElement is NULL.");
     }
     return webElement.isEnabled();
   }
